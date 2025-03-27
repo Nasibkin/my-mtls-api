@@ -1,0 +1,11 @@
+# Certificate files
+*.pem
+*.p12
+src/main/resources/keystore.p12
+src/main/resources/truststore.p12
+
+# Maven build output
+target/
+
+# macOS system files
+.DS_Store
